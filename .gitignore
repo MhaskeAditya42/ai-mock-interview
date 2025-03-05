@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Enivorment File needs to be ignored 
+.env 
+.env.*
